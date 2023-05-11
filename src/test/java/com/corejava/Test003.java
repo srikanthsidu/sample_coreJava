@@ -16,6 +16,7 @@ public class Test003 {
 		  driver.get("http://www.javatpoint.com/");
 		  driver.manage().window().maximize(); 
 		  driver.manage().window().minimize(); 
+		  System.out.println("this is simple pro");
 		  driver.close();
 		  
 		  
