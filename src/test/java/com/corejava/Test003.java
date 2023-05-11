@@ -18,6 +18,7 @@ public class Test003 {
 		  driver.manage().window().minimize(); 
 		  System.out.println("this is simple pro1");
 		  System.out.println("this is simple pro2");
+		  System.out.println("this is simple pro3");
 		  driver.close();
 		  
 		  
